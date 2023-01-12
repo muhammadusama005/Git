@@ -1,2 +1,2 @@
 Hello World!
-Using sample
+Using main
